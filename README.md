@@ -1,6 +1,6 @@
 <div align="center">
-  <h1>🌌 TUG Enter v2</h1>
-  <p><strong>TÜBİTAK Ulusal Gözlemevi (TUG) Proje Kayıt ve Yönetim Sistemi</strong></p>
+  <h1>🌌 TUG Enter </h1>
+  <p><strong>Türkiye Ulusal Gözlemevleri (TUG) Proje Kayıt ve Yönetim Sistemi</strong></p>
 
   <p>
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
@@ -13,11 +13,11 @@
 
 ---
 
-## 🔭 Proje Hakkında (About the Project)
+## 🔭 Proje Hakkında
 
-**TUG Enter**, araştırmacıların gözlem projelerini oluşturabildiği, silebilirceği ve arşivleyebildiği; astronomi ve uzay konseptli interaktif bir projedir. Etkileyici 3D uzay sahneleri (Three.js) ve akıcı animasyonlarla (Framer Motion) araştırmacıları benzersiz bir görsel deneyimle karşılar. 
+**TUG Enter**, araştırmacıların gözlem projelerini oluşturabildiği, silebileceği ve arşivleyebildiği; astronomi ve uzay konseptli interaktif bir projedir. Etkileyici 3D uzay sahneleri (Three.js) ve akıcı animasyonlarla (Framer Motion) araştırmacıları benzersiz bir görsel deneyimle karşılar. 
 
-Aynı zamanda TUG (TÜBİTAK Ulusal Gözlemevi) ve DAG (Doğu Anadolu Gözlemevi) anlık hava ve astronomi verilerini kullanıcıya sunar.
+Aynı zamanda Tübitak Ulusal Gözlemevi ve DAG (Doğu Anadolu Gözlemevi) anlık hava ve astronomi verilerini kullanıcıya sunar.
 
 ## ✨ Öne Çıkan Özellikler
 
@@ -28,7 +28,7 @@ Aynı zamanda TUG (TÜBİTAK Ulusal Gözlemevi) ve DAG (Doğu Anadolu Gözlemevi
 - 📦 **Arşivleme:** Tamamlanan projeler, "Tamamlanan Projeler" (Completed Projects) alanında değerlendirme ve fotoğraflarla birlikte arşivlenir.
 - 🐋 **Dockerize Edilmiş Mimari:** Tek bir `docker-compose up -d` komutu ile tüm sistemin başlatılması.
 
-## 🛠️ Teknolojiler (Tech Stack)
+## 🛠️ Teknolojiler
 
 ### 🎨 Frontend
 - **React (Vite):** Hızlı ve modern UI geliştirme.
